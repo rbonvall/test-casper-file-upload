@@ -1,0 +1,10 @@
+{
+  "name": "test-casper-file-upload",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-casper": "==0.3.1",
+    "casperjs": "latest",
+    "phantomjs": ">=1.9.0-2"
+  }
+}
