@@ -5,7 +5,8 @@
     "grunt": "latest",
     "grunt-casper": "==0.3.1",
     "casperjs": "latest",
-    "phantomjs": ">=1.9.0-2"
+    "phantomjs": ">=1.9.0-2",
+    "grunt-express": "^1.2.1"
   },
   "dependencies": {
     "express": "^4.0.0"
